@@ -21,7 +21,7 @@ It uses **Flask** as the backend, along with **HTML & CSS** for the frontend int
 ---
 
 ## 📸 Screenshot
-<img width="1347" height="631" alt="Screenshot 2025-08-23 113017" src="https://github.com/user-attachments/assets/e2d2092d-b124-44cd-af8d-8a53fb035766" />
+<img width="1347" height="631" alt="Screenshot 2025-08-23 113017" src="https://github.com/user-attachments/assets/d2be3222-50d3-4b67-9023-c7792009b4a6" />
 
 ---
 

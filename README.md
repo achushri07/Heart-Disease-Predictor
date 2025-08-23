@@ -1,4 +1,43 @@
+# 🫀 Heart Disease Risk Predictor (Deep Learning + Flask)
 
+This project is a **Deep Learning based web application** that predicts the risk of **Heart Disease** using an **Artificial Neural Network (ANN)**.  
+It uses **Flask** as the backend, along with **HTML & CSS** for the frontend interface.
+
+---
+
+## 🚀 Features
+- Built using **TensorFlow/Keras** (ANN model with multiclass classification).
+- Preprocessing with **Label Encoding** and **StandardScaler**.
+- Model training with **Early Stopping** to avoid overfitting.
+- Interactive web app with Flask + HTML + CSS.
+- Modal popup to show predicted condition in a user-friendly format.
+- Five possible risk categories:
+  - High Risk  
+  - Moderate Risk  
+  - Mild Risk  
+  - No Disease  
+  - Severe Disease  
+
+---
+
+## 📸 Screenshot
+<img width="1347" height="631" alt="Screenshot 2025-08-23 113017" src="https://github.com/user-attachments/assets/e2d2092d-b124-44cd-af8d-8a53fb035766" />
+
+---
+
+## 📊 Model Training (Summary)
+
+- Dataset: heart_disease_dataset_multiclass.csv
+- Preprocessing:
+  - Label encoding for categorical features (Sex, FastingBS, ExerciseAngina, Slope) 
+  - StandardScaler for numerical features 
+- Model:
+  - Input Layer → Hidden Layer (10 neurons, ReLU) → Output Layer (5 neurons, Softmax)
+  - Optimizer: Adam (lr=0.01)
+  - Loss: Sparse Categorical Crossentropy
+  - Callback: EarlyStopping (patience=20)
+Performance plots during training:
+- Accuracy vs Epochs
 - Loss vs Epochs
 
 ---

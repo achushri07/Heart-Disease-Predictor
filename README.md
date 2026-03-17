@@ -1,11 +1,11 @@
-# 🫀 Heart Disease Risk Predictor (Deep Learning + Flask)
+# Heart Disease Risk Predictor (Deep Learning + Flask)
 
 This project is a **Deep Learning based web application** that predicts the risk of **Heart Disease** using an **Artificial Neural Network (ANN)**.  
 It uses **Flask** as the backend, along with **HTML & CSS** for the frontend interface.
 
 ---
 
-## 🚀 Features
+## Features
 - Built using **TensorFlow/Keras** (ANN model with multiclass classification).
 - Preprocessing with **Label Encoding** and **StandardScaler**.
 - Model training with **Early Stopping** to avoid overfitting.
@@ -20,12 +20,12 @@ It uses **Flask** as the backend, along with **HTML & CSS** for the frontend int
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 <img width="1347" height="631" alt="Screenshot 2025-08-23 113017" src="https://github.com/user-attachments/assets/d2be3222-50d3-4b67-9023-c7792009b4a6" />
 
 ---
 
-## 📊 Model Training (Summary)
+## Model Training (Summary)
 
 - Dataset: heart_disease_dataset_multiclass.csv
 - Preprocessing:
@@ -42,7 +42,7 @@ Performance plots during training:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Python**  
 - **Flask**  
 - **TensorFlow / Keras**  
@@ -52,7 +52,7 @@ Performance plots during training:
 
 ---
 
-## 📂 Files Included
+## Files Included
 - `README.md` – This file
 - `heart_disease_dataset_multiclass` – The dataset used
 - `model.ipynb` – Python Notebook for model training
@@ -62,5 +62,5 @@ Performance plots during training:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.

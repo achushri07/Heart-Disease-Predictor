@@ -1,4 +1,4 @@
-# Heart Disease Risk Predictor (Deep Learning + Flask)
+# Heart Disease Risk Predictor
 
 This project is a **Deep Learning based web application** that predicts the risk of **Heart Disease** using an **Artificial Neural Network (ANN)**.  
 It uses **Flask** as the backend, along with **HTML & CSS** for the frontend interface.

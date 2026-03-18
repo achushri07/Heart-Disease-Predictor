@@ -59,7 +59,7 @@ Performance plots during training:
 - `app.py` – Python File for flask
 - `index.html` – HTML file
 - `style.css` – CSS file
-- - `requirements.txt` – Text file containing required libraries to install
+- `requirements.txt` – Text file containing required libraries to install
 
 ---
 

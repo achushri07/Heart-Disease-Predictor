@@ -57,8 +57,8 @@ Performance plots during training:
 - `heart_disease_dataset_multiclass` – The dataset used
 - `model.ipynb` – Python Notebook for model training
 - `app.py` – Python File for flask
-- `index.html` – HTML file
-- `style.css` – CSS file
+- `templates/index.html` – HTML file
+- `static/style.css` – CSS file
 - `requirements.txt` – Text file containing required libraries to install
 
 ---
